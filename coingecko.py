@@ -12,4 +12,4 @@ import click
 
 @click.command()
 def cli():
-    print("Hello World!")
+    click.echo("Hello World!")

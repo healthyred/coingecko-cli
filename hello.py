@@ -1,2 +1,2 @@
 def cli():
-    print("Hi World!")
+    ("Hi World!")
