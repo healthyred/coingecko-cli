@@ -15,6 +15,6 @@ def get_price(coinName, vsCurrency):
               help='This is the cryptocurrency we will query for.')
 @click.option('--vs-currency', default='usd',
               help='This is the currency we will show value in.')
-def cli(coin_name, vs_currency):
+def cli(coinName, vsCurrency):
     click.echo(get_price(coinName, vsCurrency))
 
