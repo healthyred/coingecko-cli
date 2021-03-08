@@ -1,8 +1,0 @@
-coingecko.py
-setup.py
-CoinGeckoCLI.egg-info/PKG-INFO
-CoinGeckoCLI.egg-info/SOURCES.txt
-CoinGeckoCLI.egg-info/dependency_links.txt
-CoinGeckoCLI.egg-info/entry_points.txt
-CoinGeckoCLI.egg-info/requires.txt
-CoinGeckoCLI.egg-info/top_level.txt
